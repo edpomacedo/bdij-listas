@@ -1,6 +1,8 @@
 import requests
 from bs4 import BeautifulSoup
 from tabulate import tabulate
+import hashlib
+import os
 
 # URL do endpoint SPARQL
 endpoint_url = "https://web.bdij.com.br/query/sparql"
@@ -50,9 +52,13 @@ if response.status_code == 200:
             # Adiciona os cabeçalhos e contagem de resultados
             cabeçalhos = dados_tabela[0].keys()
             contagem_resultados = len(dados_tabela)
-            tabela_wikitext = f"{{| class=\"wikitable sortable\" style=\"width:100%;\"\n|+ Número de resultados: {contagem_resultados}\n|-"
+
+            # Construir o nome do arquivo usando um hash
+            hash_nome_arquivo = hashlib.md5(consulta_sparql.encode('utf-8')).hexdigest()
+            caminho_arquivo = os.path.join('tables', f'{hash_nome_arquivo}.txt')
 
             # Adiciona os cabeçalhos à tabela wikitext
+            tabela_wikitext = f"{{| class=\"wikitable sortable\" style=\"width:100%;\"\n|+ Número de resultados: {contagem_resultados}\n|-"
             tabela_wikitext += f"\n! {' !! '.join(cabeçalhos)}\n"
 
             # Adiciona as linhas da tabela
@@ -63,8 +69,11 @@ if response.status_code == 200:
             # Finaliza a tabela wikitext
             tabela_wikitext += "|}\n"
 
-            # Imprime a tabela wikitext
-            print(tabela_wikitext)
+            # Salvar o resultado no arquivo
+            with open(caminho_arquivo, 'w', encoding='utf-8') as arquivo:
+                arquivo.write(tabela_wikitext)
+
+            print(f"Resultado salvo em: {caminho_arquivo}")
 
         else:
             print(f"Falha na requisição SPARQL. Código de status: {response_sparql.status_code}")
