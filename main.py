@@ -41,6 +41,12 @@ if response.status_code == 200:
                 linha = {chave: valor['value'] for chave, valor in resultado.items()}
                 dados_tabela.append(linha)
 
+            # Remover a parte específica da string dos resultados
+            for linha in dados_tabela:
+                for chave in linha:
+                    if isinstance(linha[chave], str) and linha[chave].startswith("https://web.bdij.com.br/entity/"):
+                        linha[chave] = linha[chave][len("https://web.bdij.com.br/entity/"):]
+
             # Adiciona os cabeçalhos e contagem de resultados
             cabeçalhos = dados_tabela[0].keys()
             contagem_resultados = len(dados_tabela)
