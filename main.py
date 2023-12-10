@@ -1,5 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
+from tabulate import tabulate
 
 # URL do endpoint SPARQL
 endpoint_url = "https://web.bdij.com.br/query/sparql"
@@ -31,12 +32,34 @@ if response.status_code == 200:
 
         # Verificação do status da resposta
         if response_sparql.status_code == 200:
-            # Impressão dos resultados
+            # Obtenção dos resultados
             resultados = response_sparql.json()
+
+            # Transforma os resultados em uma lista de dicionários
+            dados_tabela = []
             for resultado in resultados["results"]["bindings"]:
-                for chave, valor in resultado.items():
-                    print(f"{chave}: {valor['value']}")
-                print("------")
+                linha = {chave: valor['value'] for chave, valor in resultado.items()}
+                dados_tabela.append(linha)
+
+            # Adiciona os cabeçalhos e contagem de resultados
+            cabeçalhos = dados_tabela[0].keys()
+            contagem_resultados = len(dados_tabela)
+            tabela_wikitext = f"{{| class=\"wikitable sortable\" style=\"width:100%;\"\n|+ Número de resultados: {contagem_resultados}\n|-"
+
+            # Adiciona os cabeçalhos à tabela wikitext
+            tabela_wikitext += f"\n! {' !! '.join(cabeçalhos)}\n"
+
+            # Adiciona as linhas da tabela
+            for linha in dados_tabela:
+                tabela_wikitext += "|-\n"
+                tabela_wikitext += f"| {' || '.join(str(linha[coluna]) for coluna in cabeçalhos)}\n"
+
+            # Finaliza a tabela wikitext
+            tabela_wikitext += "|}\n"
+
+            # Imprime a tabela wikitext
+            print(tabela_wikitext)
+
         else:
             print(f"Falha na requisição SPARQL. Código de status: {response_sparql.status_code}")
 
