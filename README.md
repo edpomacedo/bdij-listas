@@ -28,12 +28,18 @@ pip install -r requirements.txt
 
 ## Uso
 
+Insira as credenciais do consumidor [OAuth](https://web.bdij.com.br/wiki/Special:OAuthListConsumers) no arquivo `config.py`. Em seguida:
+
 1. Acesse uma página no espaço nominal `Project:` da Base de Dados de Institutos Jurídicos.
 2. Verifique se existe uma página de discussão do referido projeto, contendo uma consulta SPARQL entre as tags `<pre>`.
-3. Copie a URL da página de discussão do projeto que contém a consulta SPARQL e cole na linha 11 do arquivo `main.py`
-4. Execute o comando `python main.py`.
+3. Execute o comando `python main.py`.
+4. Informe no terminal a URL que contém a consulta SPARQL entre as tags `<pre>`.
+5. Informe no terminal qual é o espaço nominal dos registros, p.ex. `Lexeme:` ou `Item:`.
+6. Informe no terminal o nome da página de destino, cujo conteúdo será salvo, p.ex. `Direito Intertemporal`.
 
 Será gerado um `arquivo.txt` dentro da pasta `./tables`, contendo o resultado da consulta formatado em tabela wikitext.
+
+O conteúdo registrado no `arquivo.txt` será postado na página de destino informada no terminal.
 
 ## Contribuição
 
