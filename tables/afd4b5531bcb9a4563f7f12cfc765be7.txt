@@ -1,0 +1,39 @@
+{| class="wikitable sortable" style="width:100%;"
+|+ Número de resultados: 17
+|-
+! item !! itemLabel !! itemDescription !! itemAltLabel
+|-
+| [[Item:Q2465|Q2465]] || conflito de leis no tempo || disparidade de tratamento conferido a um caso específico devido à promulgação de uma nova lei || LINDB, art. 1º, LINDB, art. 3º, LINDB, art. 6º, LINDB, art. 2º
+|-
+| [[Item:Q2439|Q2439]] || ab-rogação || revogação integral de uma norma jurídica, em qualquer de suas hierarquias, em decorrência de revogação expressa ou tácita || LINDB, art. 2º
+|-
+| [[Item:Q2440|Q2440]] || ab-rogação expressa || originada de uma disposição legal recente que declare de forma expressa a perda da vigência de um preceito legal anterior || LINDB, art. 2º § 1º
+|-
+| [[Item:Q2441|Q2441]] || ab-rogação tácita || revogação resultante da incompatibilidade do preceito anterior com o que é estabelecido posteriormente || LINDB, art. 2º § 1º
+|-
+| [[Item:Q2478|Q2478]] || derrogação || perda de eficácia de uma parte de uma norma legal, decorrente de revogação, que pode ser tanto expressa quanto tácita || LINDB, art. 2º
+|-
+| [[Item:Q2479|Q2479]] || direito adquirido || direito proveniente de um fato idôneo, em conformidade com a lei vigente na ocasião, exercível e integrante do patrimônio do titular, imune a alterações por leis posteriores || CF, art. 5º (XXXVI), LINDB, art. 6º, LINDB, art. 6º § 2º
+|-
+| [[Item:Q2480|Q2480]] || direito adquirido atual || aquele passível de exercício imediato || 
+|-
+| [[Item:Q2481|Q2481]] || direito adquirido futuro || aquele cuja aquisição ainda não foi concluída || 
+|-
+| [[Item:Q2511|Q2511]] || irretroatividade da lei || a norma legal não produz efeitos em relação a situações jurídicas já consolidadas anteriormente à sua vigência, exceto se não causar prejuízo ao direito adquirido, ao ato jurídico perfeito e à coisa julgada || CF, art. 5º (XXXVI), LINDB, art. 6º
+|-
+| [[Item:Q2518|Q2518]] || vigência da lei || intervalo de tempo em que a lei está em vigor, indicando a sua eficácia durante esse período temporal || LINDB, art. 6º, LINDB, art. 2º, LINDB, art. 14
+|-
+| [[Item:Q2528|Q2528]] || lei repristinatória || aquela que, ao revogar uma lei, automaticamente restaura a norma previamente revogada por esta || LINDB, art. 2º § 3º
+|-
+| [[Item:Q2530|Q2530]] || lei retroativa || aquela cujos efeitos abrangem as situações jurídicas formadas sob o comando do preceito revogado, permitida desde que não prejudique o direito adquirido, o ato jurídico perfeito ou a coisa julgada || CF, art. 5º (XXXVI), LINDB, art. 6º
+|-
+| [[Item:Q2532|Q2532]] || lei vigente || aquela que está em pleno vigor, pronta para produzir efeitos jurídicos || LINDB, art. 2º
+|-
+| [[Item:Q2533|Q2533]] || lex posterior derogat priori || a lei posterior derroga a anterior || LINDB, art. 2º § 1º
+|-
+| [[Item:Q2542|Q2542]] || posterior a prioribus derogat || (a lei) posterior derroga a anterior || LINDB, art. 2º § 1º
+|-
+| [[Item:Q2550|Q2550]] || retroatividade da lei || condição em que a lei produz efeitos sobre situações jurídicas já existentes antes de sua aplicação, inadmissível quando prejudica direitos já adquiridos || CF, art. 5º (XXXVI), LINDB, art. 6º
+|-
+| [[Item:Q2559|Q2559]] || gradação de tratado || equivalência do pacto internacional em relação ao direito interno || LINDB, art. 2º § 1º
+|}

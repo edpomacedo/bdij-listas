@@ -96,7 +96,9 @@ if pre_tag:
         # Adiciona as linhas da tabela
         for linha in dados_tabela:
             tabela_wikitext += "|-\n"
-            tabela_wikitext += f"| {' || '.join(str(linha[coluna]) for coluna in cabeçalhos)}\n"
+            tabela_wikitext += "| "
+            tabela_wikitext += " || ".join(str(linha.get(coluna, '')) for coluna in cabeçalhos)
+            tabela_wikitext += "\n"
 
         # Finaliza a tabela wikitext
         tabela_wikitext += "|}\n"
