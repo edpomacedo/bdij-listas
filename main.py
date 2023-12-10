@@ -8,7 +8,7 @@ import os
 endpoint_url = "https://web.bdij.com.br/query/sparql"
 
 # Realiza a requisição HTTP para obter o conteúdo da página
-response = requests.get("https://web.bdij.com.br/wiki/Project_talk:Minist%C3%A9rios")
+response = requests.get("https://web.bdij.com.br/wiki/Project_talk:Dos_Princ%C3%ADpios_Fundamentais")
 
 # Verifica se a requisição foi bem-sucedida (código 200)
 if response.status_code == 200:
