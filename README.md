@@ -1,5 +1,7 @@
 # bdij-listas
 
+![doi:10.5281/zenodo.10339637](https://zenodo.org/badge/DOI/10.5281/zenodo.10339637.svg)
+
 Criação de tabelas wikitext a partir de consultas SPARQL na Base de Dados de Institutos Jurídicos.
 
 ## Estrutura
