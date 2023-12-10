@@ -50,11 +50,36 @@ if pre_tag:
             linha = {chave: valor['value'] for chave, valor in resultado.items()}
             dados_tabela.append(linha)
 
-        # Remover a parte específica da string dos resultados
-        for linha in dados_tabela:
-            for chave in linha:
-                if isinstance(linha[chave], str) and linha[chave].startswith("https://web.bdij.com.br/entity/"):
-                    linha[chave] = linha[chave][len("https://web.bdij.com.br/entity/"):]
+        # Perguntar ao usuário o tipo de resultado
+        print("Selecione o tipo de resultado:")
+        print("1. Lexeme")
+        print("2. Item")
+
+        # Obter a resposta do usuário
+        opcao = input("Digite o número correspondente à opção desejada: ")
+
+        # Verificar a opção escolhida e realizar tratamento específico
+        if opcao == "1":
+            tipo_resultado = "Lexeme"
+            for linha in dados_tabela:
+                for chave in linha:
+                    if isinstance(linha[chave], str) and linha[chave].startswith("https://web.bdij.com.br/entity/"):
+                        lexeme_id = linha[chave][len("https://web.bdij.com.br/entity/"):]
+                        reference_id = lexeme_id.replace("-", "#")  # Substituir "-" por "#"
+                        # Substituir e formatar para [[Lexeme:L1|L1]]
+                        linha[chave] = f"[[Lexeme:{reference_id}|{lexeme_id}]]"
+        elif opcao == "2":
+            tipo_resultado = "Item"
+            for linha in dados_tabela:
+                for chave in linha:
+                    if isinstance(linha[chave], str) and linha[chave].startswith("https://web.bdij.com.br/entity/"):
+                        item_id = linha[chave][len("https://web.bdij.com.br/entity/"):]
+                        reference_id = item_id.replace("-", "#")  # Substituir "-" por "#"
+                        # Substituir e formatar para [[Item:Q1|Q1]]
+                        linha[chave] = f"[[Item:{reference_id}|{item_id}]]"
+        else:
+            print("Opção inválida. Saindo do programa.")
+            exit()
 
         # Adiciona os cabeçalhos e contagem de resultados
         cabeçalhos = dados_tabela[0].keys()
