@@ -1,5 +1,5 @@
 {| class="wikitable sortable" style="width:100%;"
-|+ Número de resultados: 253
+|+ Número de resultados: 271
 |-
 ! lexeme !! lemma !! sense !! text
 |-
@@ -109,205 +109,41 @@
 |-
 | [[Lexeme:L146|L146]] || Art. 16 || [[Lexeme:L146#S2|L146-S2]] || A lei que alterar o processo eleitoral entrará em vigor na data de sua publicação, não se aplicando à eleição que ocorra até um ano da data de sua vigência.
 |-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S1|L135-S1]] || Todos são iguais perante a lei, sem distinção de qualquer natureza, garantindo-se aos brasileiros e aos estrangeiros residentes no País a inviolabilidade do direito à vida, à liberdade, à igualdade, à segurança e à propriedade, nos termos seguintes:
+| [[Lexeme:L147|L147]] || Art. 17 || [[Lexeme:L147#S1|L147-S1]] || É livre a criação, fusão, incorporação e extinção de partidos políticos, resguardados a soberania nacional, o regime democrático, o pluripartidarismo, os direitos fundamentais da pessoa humana e observados os seguintes preceitos:
 |-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S2|L135-S2]] || I - homens e mulheres são iguais em direitos e obrigações, nos termos desta Constituição;
+| [[Lexeme:L147|L147]] || Art. 17 || [[Lexeme:L147#S2|L147-S2]] || I - caráter nacional;
 |-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S3|L135-S3]] || II - ninguém será obrigado a fazer ou deixar de fazer alguma coisa senão em virtude de lei;
+| [[Lexeme:L147|L147]] || Art. 17 || [[Lexeme:L147#S3|L147-S3]] || II - proibição de recebimento de recursos financeiros de entidade ou governo estrangeiros ou de subordinação a estes;
 |-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S4|L135-S4]] || III - ninguém será submetido a tortura nem a tratamento desumano ou degradante;
+| [[Lexeme:L147|L147]] || Art. 17 || [[Lexeme:L147#S4|L147-S4]] || III - prestação de contas à Justiça Eleitoral;
 |-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S5|L135-S5]] || IV - é livre a manifestação do pensamento, sendo vedado o anonimato;
+| [[Lexeme:L147|L147]] || Art. 17 || [[Lexeme:L147#S5|L147-S5]] || IV - funcionamento parlamentar de acordo com a lei.
 |-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S6|L135-S6]] || V - é assegurado o direito de resposta, proporcional ao agravo, além da indenização por dano material, moral ou à imagem;
+| [[Lexeme:L147|L147]] || Art. 17 || [[Lexeme:L147#S6|L147-S6]] || § 1º É assegurada aos partidos políticos autonomia para definir sua estrutura interna, organização e funcionamento, devendo seus estatutos estabelecer normas de fidelidade e disciplina partidárias.
 |-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S7|L135-S7]] || VI - é inviolável a liberdade de consciência e de crença, sendo assegurado o livre exercício dos cultos religiosos e garantida, na forma da lei, a proteção aos locais de culto e a suas liturgias;
+| [[Lexeme:L147|L147]] || Art. 17 || [[Lexeme:L147#S7|L147-S7]] || § 1º É assegurada aos partidos políticos autonomia para definir sua estrutura interna, organização e funcionamento e para adotar os critérios de escolha e o regime de suas coligações eleitorais, sem obrigatoriedade de vinculação entre as candidaturas em âmbito nacional, estadual, distrital ou municipal, devendo seus estatutos estabelecer normas de disciplina e fidelidade partidária.
 |-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S8|L135-S8]] || VII - é assegurada, nos termos da lei, a prestação de assistência religiosa nas entidades civis e militares de internação coletiva;
+| [[Lexeme:L147|L147]] || Art. 17 || [[Lexeme:L147#S8|L147-S8]] || § 1º É assegurada aos partidos políticos autonomia para definir sua estrutura interna e estabelecer regras sobre escolha, formação e duração de seus órgãos permanentes e provisórios e sobre sua organização e funcionamento e para adotar os critérios de escolha e o regime de suas coligações nas eleições majoritárias, vedada a sua celebração nas eleições proporcionais, sem obrigatoriedade de vinculação entre as candidaturas em âmbito nacional, estadual, distrital ou municipal, devendo seus estatutos estabelecer normas de disciplina e fidelidade partidária.
 |-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S9|L135-S9]] || VIII - ninguém será privado de direitos por motivo de crença religiosa ou de convicção filosófica ou política, salvo se as invocar para eximir-se de obrigação legal a todos imposta e recusar-se a cumprir prestação alternativa, fixada em lei;
+| [[Lexeme:L147|L147]] || Art. 17 || [[Lexeme:L147#S9|L147-S9]] || § 2º Os partidos políticos, após adquirirem personalidade jurídica, na forma da lei civil, registrarão seus estatutos no Tribunal Superior Eleitoral.
 |-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S10|L135-S10]] || IX - é livre a expressão da atividade intelectual, artística, científica e de comunicação, independentemente de censura ou licença;
+| [[Lexeme:L147|L147]] || Art. 17 || [[Lexeme:L147#S10|L147-S10]] || § 3º Os partidos políticos têm direito a recursos do fundo partidário e acesso gratuito ao rádio e à televisão, na forma da lei.
 |-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S11|L135-S11]] || X - são invioláveis a intimidade, a vida privada, a honra e a imagem das pessoas, assegurado o direito a indenização pelo dano material ou moral decorrente de sua violação;
+| [[Lexeme:L147|L147]] || Art. 17 || [[Lexeme:L147#S11|L147-S11]] || § 3º Somente terão direito a recursos do fundo partidário e acesso gratuito ao rádio e à televisão, na forma da lei, os partidos políticos que alternativamente:
 |-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S12|L135-S12]] || XI - a casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem consentimento do morador, salvo em caso de flagrante delito ou desastre, ou para prestar socorro, ou, durante o dia, por determinação judicial;
+| [[Lexeme:L147|L147]] || Art. 17 || [[Lexeme:L147#S12|L147-S12]] || I - obtiverem, nas eleições para a Câmara dos Deputados, no mínimo, 3% (três por cento) dos votos válidos, distribuídos em pelo menos um terço das unidades da Federação, com um mínimo de 2% (dois por cento) dos votos válidos em cada uma delas; ou
 |-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S13|L135-S13]] || XII - é inviolável o sigilo da correspondência e das comunicações telegráficas, de dados e das comunicações telefônicas, salvo, no último caso, por ordem judicial, nas hipóteses e na forma que a lei estabelecer para fins de investigação criminal ou instrução processual penal;
+| [[Lexeme:L147|L147]] || Art. 17 || [[Lexeme:L147#S13|L147-S13]] || II - tiverem elegido pelo menos quinze Deputados Federais distribuídos em pelo menos um terço das unidades da Federação.
 |-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S14|L135-S14]] || XIII - é livre o exercício de qualquer trabalho, ofício ou profissão, atendidas as qualificações profissionais que a lei estabelecer;
+| [[Lexeme:L147|L147]] || Art. 17 || [[Lexeme:L147#S14|L147-S14]] || § 4º É vedada a utilização pelos partidos políticos de organização paramilitar.
 |-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S15|L135-S15]] || XIV - é assegurado a todos o acesso à informação e resguardado o sigilo da fonte, quando necessário ao exercício profissional;
+| [[Lexeme:L147|L147]] || Art. 17 || [[Lexeme:L147#S15|L147-S15]] || § 5º Ao eleito por partido que não preencher os requisitos previstos no § 3º deste artigo é assegurado o mandato e facultada a filiação, sem perda do mandato, a outro partido que os tenha atingido, não sendo essa filiação considerada para fins de distribuição dos recursos do fundo partidário e de acesso gratuito ao tempo de rádio e de televisão.
 |-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S16|L135-S16]] || XV - é livre a locomoção no território nacional em tempo de paz, podendo qualquer pessoa, nos termos da lei, nele entrar, permanecer ou dele sair com seus bens;
+| [[Lexeme:L147|L147]] || Art. 17 || [[Lexeme:L147#S16|L147-S16]] || § 6º Os Deputados Federais, os Deputados Estaduais, os Deputados Distritais e os Vereadores que se desligarem do partido pelo qual tenham sido eleitos perderão o mandato, salvo nos casos de anuência do partido ou de outras hipóteses de justa causa estabelecidas em lei, não computada, em qualquer caso, a migração de partido para fins de distribuição de recursos do fundo partidário ou de outros fundos públicos e de acesso gratuito ao rádio e à televisão.
 |-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S17|L135-S17]] || XVI - todos podem reunir-se pacificamente, sem armas, em locais abertos ao público, independentemente de autorização, desde que não frustrem outra reunião anteriormente convocada para o mesmo local, sendo apenas exigido prévio aviso à autoridade competente;
+| [[Lexeme:L147|L147]] || Art. 17 || [[Lexeme:L147#S17|L147-S17]] || § 7º Os partidos políticos devem aplicar no mínimo 5% (cinco por cento) dos recursos do fundo partidário na criação e na manutenção de programas de promoção e difusão da participação política das mulheres, de acordo com os interesses intrapartidários.
 |-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S18|L135-S18]] || XVII - é plena a liberdade de associação para fins lícitos, vedada a de caráter paramilitar;
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S19|L135-S19]] || XVIII - a criação de associações e, na forma da lei, a de cooperativas independem de autorização, sendo vedada a interferência estatal em seu funcionamento;
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S20|L135-S20]] || XIX - as associações só poderão ser compulsoriamente dissolvidas ou ter suas atividades suspensas por decisão judicial, exigindo-se, no primeiro caso, o trânsito em julgado;
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S21|L135-S21]] || XX - ninguém poderá ser compelido a associar-se ou a permanecer associado;
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S22|L135-S22]] || XXI - as entidades associativas, quando expressamente autorizadas, têm legitimidade para representar seus filiados judicial ou extrajudicialmente;
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S23|L135-S23]] || XXII - é garantido o direito de propriedade;
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S24|L135-S24]] || XXIII - a propriedade atenderá a sua função social;
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S25|L135-S25]] || XXIV - a lei estabelecerá o procedimento para desapropriação por necessidade ou utilidade pública, ou por interesse social, mediante justa e prévia indenização em dinheiro, ressalvados os casos previstos nesta Constituição;
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S26|L135-S26]] || XXV - no caso de iminente perigo público, a autoridade competente poderá usar de propriedade particular, assegurada ao proprietário indenização ulterior, se houver dano;
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S27|L135-S27]] || XXVI - a pequena propriedade rural, assim definida em lei, desde que trabalhada pela família, não será objeto de penhora para pagamento de débitos decorrentes de sua atividade produtiva, dispondo a lei sobre os meios de financiar o seu desenvolvimento;
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S28|L135-S28]] || XXVII - aos autores pertence o direito exclusivo de utilização, publicação ou reprodução de suas obras, transmissível aos herdeiros pelo tempo que a lei fixar;
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S29|L135-S29]] || XXVIII - são assegurados, nos termos da lei:
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S30|L135-S30]] || a) a proteção às participações individuais em obras coletivas e à reprodução da imagem e voz humanas, inclusive nas atividades desportivas;
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S31|L135-S31]] || b) o direito de fiscalização do aproveitamento econômico das obras que criarem ou de que participarem aos criadores, aos intérpretes e às respectivas representações sindicais e associativas;
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S32|L135-S32]] || XXIX - a lei assegurará aos autores de inventos industriais privilégio temporário para sua utilização, bem como proteção às criações industriais, à propriedade das marcas, aos nomes de empresas e a outros signos distintivos, tendo em vista o interesse social e o desenvolvimento tecnológico e econômico do País;
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S33|L135-S33]] || XXX - é garantido o direito de herança;
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S34|L135-S34]] || XXXI - a sucessão de bens de estrangeiros situados no País será regulada pela lei brasileira em benefício do cônjuge ou dos filhos brasileiros, sempre que não lhes seja mais favorável a lei pessoal do "de cujus";
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S35|L135-S35]] || XXXII - o Estado promoverá, na forma da lei, a defesa do consumidor;
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S36|L135-S36]] || XXXIII - todos têm direito a receber dos órgãos públicos informações de seu interesse particular, ou de interesse coletivo ou geral, que serão prestadas no prazo da lei, sob pena de responsabilidade, ressalvadas aquelas cujo sigilo seja imprescindível à segurança da sociedade e do Estado;
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S37|L135-S37]] || XXXIV - são a todos assegurados, independentemente do pagamento de taxas:
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S38|L135-S38]] || a) o direito de petição aos Poderes Públicos em defesa de direitos ou contra ilegalidade ou abuso de poder;
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S39|L135-S39]] || b) a obtenção de certidões em repartições públicas, para defesa de direitos e esclarecimento de situações de interesse pessoal;
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S40|L135-S40]] || XXXV - a lei não excluirá da apreciação do Poder Judiciário lesão ou ameaça a direito;
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S41|L135-S41]] || XXXVI - a lei não prejudicará o direito adquirido, o ato jurídico perfeito e a coisa julgada;
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S42|L135-S42]] || XXXVII - não haverá juízo ou tribunal de exceção;
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S43|L135-S43]] || XXXVIII - é reconhecida a instituição do júri, com a organização que lhe der a lei, assegurados:
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S44|L135-S44]] || a) a plenitude de defesa;
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S45|L135-S45]] || b) o sigilo das votações;
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S46|L135-S46]] || c) a soberania dos veredictos;
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S47|L135-S47]] || d) a competência para o julgamento dos crimes dolosos contra a vida;
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S48|L135-S48]] || XXXIX - não há crime sem lei anterior que o defina, nem pena sem prévia cominação legal;
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S49|L135-S49]] || XL - a lei penal não retroagirá, salvo para beneficiar o réu;
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S50|L135-S50]] || XLI - a lei punirá qualquer discriminação atentatória dos direitos e liberdades fundamentais;
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S51|L135-S51]] || XLII - a prática do racismo constitui crime inafiançável e imprescritível, sujeito à pena de reclusão, nos termos da lei;
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S52|L135-S52]] || XLIII - a lei considerará crimes inafiançáveis e insuscetíveis de graça ou anistia a prática da tortura , o tráfico ilícito de entorpecentes e drogas afins, o terrorismo e os definidos como crimes hediondos, por eles respondendo os mandantes, os executores e os que, podendo evitá-los, se omitirem;
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S53|L135-S53]] || XLIV - constitui crime inafiançável e imprescritível a ação de grupos armados, civis ou militares, contra a ordem constitucional e o Estado Democrático;
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S54|L135-S54]] || XLV - nenhuma pena passará da pessoa do condenado, podendo a obrigação de reparar o dano e a decretação do perdimento de bens ser, nos termos da lei, estendidas aos sucessores e contra eles executadas, até o limite do valor do patrimônio transferido;
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S55|L135-S55]] || XLVI - a lei regulará a individualização da pena e adotará, entre outras, as seguintes:
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S56|L135-S56]] || a) privação ou restrição da liberdade;
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S57|L135-S57]] || b) perda de bens;
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S58|L135-S58]] || c) multa;
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S59|L135-S59]] || d) prestação social alternativa;
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S60|L135-S60]] || e) suspensão ou interdição de direitos;
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S61|L135-S61]] || XLVII - não haverá penas:
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S62|L135-S62]] || a) de morte, salvo em caso de guerra declarada, nos termos do art. 84, XIX;
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S63|L135-S63]] || b) de caráter perpétuo;
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S64|L135-S64]] || c) de trabalhos forçados;
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S65|L135-S65]] || d) de banimento;
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S66|L135-S66]] || e) cruéis;
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S67|L135-S67]] || XLVIII - a pena será cumprida em estabelecimentos distintos, de acordo com a natureza do delito, a idade e o sexo do apenado;
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S68|L135-S68]] || XLIX - é assegurado aos presos o respeito à integridade física e moral;
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S69|L135-S69]] || L - às presidiárias serão asseguradas condições para que possam permanecer com seus filhos durante o período de amamentação;
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S70|L135-S70]] || LI - nenhum brasileiro será extraditado, salvo o naturalizado, em caso de crime comum, praticado antes da naturalização, ou de comprovado envolvimento em tráfico ilícito de entorpecentes e drogas afins, na forma da lei;
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S71|L135-S71]] || LII - não será concedida extradição de estrangeiro por crime político ou de opinião;
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S72|L135-S72]] || LIII - ninguém será processado nem sentenciado senão pela autoridade competente;
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S73|L135-S73]] || LIV - ninguém será privado da liberdade ou de seus bens sem o devido processo legal;
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S74|L135-S74]] || LV - aos litigantes, em processo judicial ou administrativo, e aos acusados em geral são assegurados o contraditório e ampla defesa, com os meios e recursos a ela inerentes;
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S75|L135-S75]] || LVI - são inadmissíveis, no processo, as provas obtidas por meios ilícitos;
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S76|L135-S76]] || LVII - ninguém será considerado culpado até o trânsito em julgado de sentença penal condenatória;
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S77|L135-S77]] || LVIII - o civilmente identificado não será submetido a identificação criminal, salvo nas hipóteses previstas em lei;
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S78|L135-S78]] || LIX - será admitida ação privada nos crimes de ação pública, se esta não for intentada no prazo legal;
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S79|L135-S79]] || LX - a lei só poderá restringir a publicidade dos atos processuais quando a defesa da intimidade ou o interesse social o exigirem;
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S80|L135-S80]] || LXI - ninguém será preso senão em flagrante delito ou por ordem escrita e fundamentada de autoridade judiciária competente, salvo nos casos de transgressão militar ou crime propriamente militar, definidos em lei;
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S81|L135-S81]] || LXII - a prisão de qualquer pessoa e o local onde se encontre serão comunicados imediatamente ao juiz competente e à família do preso ou à pessoa por ele indicada;
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S82|L135-S82]] || LXIII - o preso será informado de seus direitos, entre os quais o de permanecer calado, sendo-lhe assegurada a assistência da família e de advogado;
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S83|L135-S83]] || LXIV - o preso tem direito à identificação dos responsáveis por sua prisão ou por seu interrogatório policial;
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S84|L135-S84]] || LXV - a prisão ilegal será imediatamente relaxada pela autoridade judiciária;
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S85|L135-S85]] || LXVI - ninguém será levado à prisão ou nela mantido, quando a lei admitir a liberdade provisória, com ou sem fiança;
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S86|L135-S86]] || LXVII - não haverá prisão civil por dívida, salvo a do responsável pelo inadimplemento voluntário e inescusável de obrigação alimentícia e a do depositário infiel;
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S87|L135-S87]] || LXVIII - conceder-se-á "habeas-corpus" sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder;
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S88|L135-S88]] || LXIX - conceder-se-á mandado de segurança para proteger direito líquido e certo, não amparado por "habeas-corpus" ou "habeas-data", quando o responsável pela ilegalidade ou abuso de poder for autoridade pública ou agente de pessoa jurídica no exercício de atribuições do Poder Público;
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S89|L135-S89]] || LXX - o mandado de segurança coletivo pode ser impetrado por:
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S90|L135-S90]] || a) partido político com representação no Congresso Nacional;
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S91|L135-S91]] || b) organização sindical, entidade de classe ou associação legalmente constituída e em funcionamento há pelo menos um ano, em defesa dos interesses de seus membros ou associados;
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S92|L135-S92]] || LXXI - conceder-se-á mandado de injunção sempre que a falta de norma regulamentadora torne inviável o exercício dos direitos e liberdades constitucionais e das prerrogativas inerentes à nacionalidade, à soberania e à cidadania;
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S93|L135-S93]] || LXXII - conceder-se-á "habeas-data":
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S94|L135-S94]] || a) para assegurar o conhecimento de informações relativas à pessoa do impetrante, constantes de registros ou bancos de dados de entidades governamentais ou de caráter público;
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S95|L135-S95]] || b) para a retificação de dados, quando não se prefira fazê-lo por processo sigiloso, judicial ou administrativo;
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S96|L135-S96]] || LXXIII - qualquer cidadão é parte legítima para propor ação popular que vise a anular ato lesivo ao patrimônio público ou de entidade de que o Estado participe, à moralidade administrativa, ao meio ambiente e ao patrimônio histórico e cultural, ficando o autor, salvo comprovada má-fé, isento de custas judiciais e do ônus da sucumbência;
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S97|L135-S97]] || LXXIV - o Estado prestará assistência jurídica integral e gratuita aos que comprovarem insuficiência de recursos;
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S98|L135-S98]] || LXXV - o Estado indenizará o condenado por erro judiciário, assim como o que ficar preso além do tempo fixado na sentença;
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S100|L135-S100]] || a) o registro civil de nascimento;
-|-
-| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S101|L135-S101]] || b) a certidão de óbito;
+| [[Lexeme:L147|L147]] || Art. 17 || [[Lexeme:L147#S18|L147-S18]] || § 8º O montante do Fundo Especial de Financiamento de Campanha e da parcela do fundo partidário destinada a campanhas eleitorais, bem como o tempo de propaganda gratuita no rádio e na televisão a ser distribuído pelos partidos às respectivas candidatas, deverão ser de no mínimo 30% (trinta por cento), proporcional ao número de candidatas, e a distribuição deverá ser realizada conforme critérios definidos pelos respectivos órgãos de direção e pelas normas estatutárias, considerados a autonomia e o interesse partidário.
 |-
 | [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S99|L135-S99]] || LXXVI - são gratuitos para os reconhecidamente pobres, na forma da lei:
 |-
@@ -508,4 +344,204 @@
 | [[Lexeme:L142|L142]] || Art. 12 || [[Lexeme:L142#S26|L142-S26]] || II - adquirir outra nacionalidade por naturalização voluntária.
 |-
 | [[Lexeme:L142|L142]] || Art. 12 || [[Lexeme:L142#S27|L142-S27]] || II - adquirir outra nacionalidade, salvo nos casos:
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S1|L135-S1]] || Todos são iguais perante a lei, sem distinção de qualquer natureza, garantindo-se aos brasileiros e aos estrangeiros residentes no País a inviolabilidade do direito à vida, à liberdade, à igualdade, à segurança e à propriedade, nos termos seguintes:
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S2|L135-S2]] || I - homens e mulheres são iguais em direitos e obrigações, nos termos desta Constituição;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S3|L135-S3]] || II - ninguém será obrigado a fazer ou deixar de fazer alguma coisa senão em virtude de lei;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S4|L135-S4]] || III - ninguém será submetido a tortura nem a tratamento desumano ou degradante;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S5|L135-S5]] || IV - é livre a manifestação do pensamento, sendo vedado o anonimato;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S6|L135-S6]] || V - é assegurado o direito de resposta, proporcional ao agravo, além da indenização por dano material, moral ou à imagem;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S7|L135-S7]] || VI - é inviolável a liberdade de consciência e de crença, sendo assegurado o livre exercício dos cultos religiosos e garantida, na forma da lei, a proteção aos locais de culto e a suas liturgias;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S8|L135-S8]] || VII - é assegurada, nos termos da lei, a prestação de assistência religiosa nas entidades civis e militares de internação coletiva;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S9|L135-S9]] || VIII - ninguém será privado de direitos por motivo de crença religiosa ou de convicção filosófica ou política, salvo se as invocar para eximir-se de obrigação legal a todos imposta e recusar-se a cumprir prestação alternativa, fixada em lei;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S10|L135-S10]] || IX - é livre a expressão da atividade intelectual, artística, científica e de comunicação, independentemente de censura ou licença;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S11|L135-S11]] || X - são invioláveis a intimidade, a vida privada, a honra e a imagem das pessoas, assegurado o direito a indenização pelo dano material ou moral decorrente de sua violação;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S12|L135-S12]] || XI - a casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem consentimento do morador, salvo em caso de flagrante delito ou desastre, ou para prestar socorro, ou, durante o dia, por determinação judicial;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S13|L135-S13]] || XII - é inviolável o sigilo da correspondência e das comunicações telegráficas, de dados e das comunicações telefônicas, salvo, no último caso, por ordem judicial, nas hipóteses e na forma que a lei estabelecer para fins de investigação criminal ou instrução processual penal;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S14|L135-S14]] || XIII - é livre o exercício de qualquer trabalho, ofício ou profissão, atendidas as qualificações profissionais que a lei estabelecer;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S15|L135-S15]] || XIV - é assegurado a todos o acesso à informação e resguardado o sigilo da fonte, quando necessário ao exercício profissional;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S16|L135-S16]] || XV - é livre a locomoção no território nacional em tempo de paz, podendo qualquer pessoa, nos termos da lei, nele entrar, permanecer ou dele sair com seus bens;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S17|L135-S17]] || XVI - todos podem reunir-se pacificamente, sem armas, em locais abertos ao público, independentemente de autorização, desde que não frustrem outra reunião anteriormente convocada para o mesmo local, sendo apenas exigido prévio aviso à autoridade competente;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S18|L135-S18]] || XVII - é plena a liberdade de associação para fins lícitos, vedada a de caráter paramilitar;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S19|L135-S19]] || XVIII - a criação de associações e, na forma da lei, a de cooperativas independem de autorização, sendo vedada a interferência estatal em seu funcionamento;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S20|L135-S20]] || XIX - as associações só poderão ser compulsoriamente dissolvidas ou ter suas atividades suspensas por decisão judicial, exigindo-se, no primeiro caso, o trânsito em julgado;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S21|L135-S21]] || XX - ninguém poderá ser compelido a associar-se ou a permanecer associado;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S22|L135-S22]] || XXI - as entidades associativas, quando expressamente autorizadas, têm legitimidade para representar seus filiados judicial ou extrajudicialmente;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S23|L135-S23]] || XXII - é garantido o direito de propriedade;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S24|L135-S24]] || XXIII - a propriedade atenderá a sua função social;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S25|L135-S25]] || XXIV - a lei estabelecerá o procedimento para desapropriação por necessidade ou utilidade pública, ou por interesse social, mediante justa e prévia indenização em dinheiro, ressalvados os casos previstos nesta Constituição;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S26|L135-S26]] || XXV - no caso de iminente perigo público, a autoridade competente poderá usar de propriedade particular, assegurada ao proprietário indenização ulterior, se houver dano;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S27|L135-S27]] || XXVI - a pequena propriedade rural, assim definida em lei, desde que trabalhada pela família, não será objeto de penhora para pagamento de débitos decorrentes de sua atividade produtiva, dispondo a lei sobre os meios de financiar o seu desenvolvimento;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S28|L135-S28]] || XXVII - aos autores pertence o direito exclusivo de utilização, publicação ou reprodução de suas obras, transmissível aos herdeiros pelo tempo que a lei fixar;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S29|L135-S29]] || XXVIII - são assegurados, nos termos da lei:
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S30|L135-S30]] || a) a proteção às participações individuais em obras coletivas e à reprodução da imagem e voz humanas, inclusive nas atividades desportivas;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S31|L135-S31]] || b) o direito de fiscalização do aproveitamento econômico das obras que criarem ou de que participarem aos criadores, aos intérpretes e às respectivas representações sindicais e associativas;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S32|L135-S32]] || XXIX - a lei assegurará aos autores de inventos industriais privilégio temporário para sua utilização, bem como proteção às criações industriais, à propriedade das marcas, aos nomes de empresas e a outros signos distintivos, tendo em vista o interesse social e o desenvolvimento tecnológico e econômico do País;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S33|L135-S33]] || XXX - é garantido o direito de herança;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S34|L135-S34]] || XXXI - a sucessão de bens de estrangeiros situados no País será regulada pela lei brasileira em benefício do cônjuge ou dos filhos brasileiros, sempre que não lhes seja mais favorável a lei pessoal do "de cujus";
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S35|L135-S35]] || XXXII - o Estado promoverá, na forma da lei, a defesa do consumidor;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S36|L135-S36]] || XXXIII - todos têm direito a receber dos órgãos públicos informações de seu interesse particular, ou de interesse coletivo ou geral, que serão prestadas no prazo da lei, sob pena de responsabilidade, ressalvadas aquelas cujo sigilo seja imprescindível à segurança da sociedade e do Estado;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S37|L135-S37]] || XXXIV - são a todos assegurados, independentemente do pagamento de taxas:
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S38|L135-S38]] || a) o direito de petição aos Poderes Públicos em defesa de direitos ou contra ilegalidade ou abuso de poder;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S39|L135-S39]] || b) a obtenção de certidões em repartições públicas, para defesa de direitos e esclarecimento de situações de interesse pessoal;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S40|L135-S40]] || XXXV - a lei não excluirá da apreciação do Poder Judiciário lesão ou ameaça a direito;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S41|L135-S41]] || XXXVI - a lei não prejudicará o direito adquirido, o ato jurídico perfeito e a coisa julgada;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S42|L135-S42]] || XXXVII - não haverá juízo ou tribunal de exceção;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S43|L135-S43]] || XXXVIII - é reconhecida a instituição do júri, com a organização que lhe der a lei, assegurados:
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S44|L135-S44]] || a) a plenitude de defesa;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S45|L135-S45]] || b) o sigilo das votações;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S46|L135-S46]] || c) a soberania dos veredictos;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S47|L135-S47]] || d) a competência para o julgamento dos crimes dolosos contra a vida;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S48|L135-S48]] || XXXIX - não há crime sem lei anterior que o defina, nem pena sem prévia cominação legal;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S49|L135-S49]] || XL - a lei penal não retroagirá, salvo para beneficiar o réu;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S50|L135-S50]] || XLI - a lei punirá qualquer discriminação atentatória dos direitos e liberdades fundamentais;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S51|L135-S51]] || XLII - a prática do racismo constitui crime inafiançável e imprescritível, sujeito à pena de reclusão, nos termos da lei;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S52|L135-S52]] || XLIII - a lei considerará crimes inafiançáveis e insuscetíveis de graça ou anistia a prática da tortura , o tráfico ilícito de entorpecentes e drogas afins, o terrorismo e os definidos como crimes hediondos, por eles respondendo os mandantes, os executores e os que, podendo evitá-los, se omitirem;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S53|L135-S53]] || XLIV - constitui crime inafiançável e imprescritível a ação de grupos armados, civis ou militares, contra a ordem constitucional e o Estado Democrático;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S54|L135-S54]] || XLV - nenhuma pena passará da pessoa do condenado, podendo a obrigação de reparar o dano e a decretação do perdimento de bens ser, nos termos da lei, estendidas aos sucessores e contra eles executadas, até o limite do valor do patrimônio transferido;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S55|L135-S55]] || XLVI - a lei regulará a individualização da pena e adotará, entre outras, as seguintes:
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S56|L135-S56]] || a) privação ou restrição da liberdade;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S57|L135-S57]] || b) perda de bens;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S58|L135-S58]] || c) multa;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S59|L135-S59]] || d) prestação social alternativa;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S60|L135-S60]] || e) suspensão ou interdição de direitos;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S61|L135-S61]] || XLVII - não haverá penas:
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S62|L135-S62]] || a) de morte, salvo em caso de guerra declarada, nos termos do art. 84, XIX;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S63|L135-S63]] || b) de caráter perpétuo;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S64|L135-S64]] || c) de trabalhos forçados;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S65|L135-S65]] || d) de banimento;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S66|L135-S66]] || e) cruéis;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S67|L135-S67]] || XLVIII - a pena será cumprida em estabelecimentos distintos, de acordo com a natureza do delito, a idade e o sexo do apenado;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S68|L135-S68]] || XLIX - é assegurado aos presos o respeito à integridade física e moral;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S69|L135-S69]] || L - às presidiárias serão asseguradas condições para que possam permanecer com seus filhos durante o período de amamentação;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S70|L135-S70]] || LI - nenhum brasileiro será extraditado, salvo o naturalizado, em caso de crime comum, praticado antes da naturalização, ou de comprovado envolvimento em tráfico ilícito de entorpecentes e drogas afins, na forma da lei;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S71|L135-S71]] || LII - não será concedida extradição de estrangeiro por crime político ou de opinião;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S72|L135-S72]] || LIII - ninguém será processado nem sentenciado senão pela autoridade competente;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S73|L135-S73]] || LIV - ninguém será privado da liberdade ou de seus bens sem o devido processo legal;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S74|L135-S74]] || LV - aos litigantes, em processo judicial ou administrativo, e aos acusados em geral são assegurados o contraditório e ampla defesa, com os meios e recursos a ela inerentes;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S75|L135-S75]] || LVI - são inadmissíveis, no processo, as provas obtidas por meios ilícitos;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S76|L135-S76]] || LVII - ninguém será considerado culpado até o trânsito em julgado de sentença penal condenatória;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S77|L135-S77]] || LVIII - o civilmente identificado não será submetido a identificação criminal, salvo nas hipóteses previstas em lei;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S78|L135-S78]] || LIX - será admitida ação privada nos crimes de ação pública, se esta não for intentada no prazo legal;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S79|L135-S79]] || LX - a lei só poderá restringir a publicidade dos atos processuais quando a defesa da intimidade ou o interesse social o exigirem;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S80|L135-S80]] || LXI - ninguém será preso senão em flagrante delito ou por ordem escrita e fundamentada de autoridade judiciária competente, salvo nos casos de transgressão militar ou crime propriamente militar, definidos em lei;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S81|L135-S81]] || LXII - a prisão de qualquer pessoa e o local onde se encontre serão comunicados imediatamente ao juiz competente e à família do preso ou à pessoa por ele indicada;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S82|L135-S82]] || LXIII - o preso será informado de seus direitos, entre os quais o de permanecer calado, sendo-lhe assegurada a assistência da família e de advogado;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S83|L135-S83]] || LXIV - o preso tem direito à identificação dos responsáveis por sua prisão ou por seu interrogatório policial;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S84|L135-S84]] || LXV - a prisão ilegal será imediatamente relaxada pela autoridade judiciária;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S85|L135-S85]] || LXVI - ninguém será levado à prisão ou nela mantido, quando a lei admitir a liberdade provisória, com ou sem fiança;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S86|L135-S86]] || LXVII - não haverá prisão civil por dívida, salvo a do responsável pelo inadimplemento voluntário e inescusável de obrigação alimentícia e a do depositário infiel;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S87|L135-S87]] || LXVIII - conceder-se-á "habeas-corpus" sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S88|L135-S88]] || LXIX - conceder-se-á mandado de segurança para proteger direito líquido e certo, não amparado por "habeas-corpus" ou "habeas-data", quando o responsável pela ilegalidade ou abuso de poder for autoridade pública ou agente de pessoa jurídica no exercício de atribuições do Poder Público;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S89|L135-S89]] || LXX - o mandado de segurança coletivo pode ser impetrado por:
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S90|L135-S90]] || a) partido político com representação no Congresso Nacional;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S91|L135-S91]] || b) organização sindical, entidade de classe ou associação legalmente constituída e em funcionamento há pelo menos um ano, em defesa dos interesses de seus membros ou associados;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S92|L135-S92]] || LXXI - conceder-se-á mandado de injunção sempre que a falta de norma regulamentadora torne inviável o exercício dos direitos e liberdades constitucionais e das prerrogativas inerentes à nacionalidade, à soberania e à cidadania;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S93|L135-S93]] || LXXII - conceder-se-á "habeas-data":
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S94|L135-S94]] || a) para assegurar o conhecimento de informações relativas à pessoa do impetrante, constantes de registros ou bancos de dados de entidades governamentais ou de caráter público;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S95|L135-S95]] || b) para a retificação de dados, quando não se prefira fazê-lo por processo sigiloso, judicial ou administrativo;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S96|L135-S96]] || LXXIII - qualquer cidadão é parte legítima para propor ação popular que vise a anular ato lesivo ao patrimônio público ou de entidade de que o Estado participe, à moralidade administrativa, ao meio ambiente e ao patrimônio histórico e cultural, ficando o autor, salvo comprovada má-fé, isento de custas judiciais e do ônus da sucumbência;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S97|L135-S97]] || LXXIV - o Estado prestará assistência jurídica integral e gratuita aos que comprovarem insuficiência de recursos;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S98|L135-S98]] || LXXV - o Estado indenizará o condenado por erro judiciário, assim como o que ficar preso além do tempo fixado na sentença;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S100|L135-S100]] || a) o registro civil de nascimento;
+|-
+| [[Lexeme:L135|L135]] || Art. 5º || [[Lexeme:L135#S101|L135-S101]] || b) a certidão de óbito;
 |}

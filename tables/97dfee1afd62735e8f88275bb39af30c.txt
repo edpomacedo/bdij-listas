@@ -1,0 +1,41 @@
+{| class="wikitable sortable" style="width:100%;"
+|+ Número de resultados: 18
+|-
+! lexeme !! lemma !! sense !! text
+|-
+| [[Lexeme:L147|L147]] || Art. 17 || [[Lexeme:L147#S1|L147-S1]] || É livre a criação, fusão, incorporação e extinção de partidos políticos, resguardados a soberania nacional, o regime democrático, o pluripartidarismo, os direitos fundamentais da pessoa humana e observados os seguintes preceitos:
+|-
+| [[Lexeme:L147|L147]] || Art. 17 || [[Lexeme:L147#S2|L147-S2]] || I - caráter nacional;
+|-
+| [[Lexeme:L147|L147]] || Art. 17 || [[Lexeme:L147#S3|L147-S3]] || II - proibição de recebimento de recursos financeiros de entidade ou governo estrangeiros ou de subordinação a estes;
+|-
+| [[Lexeme:L147|L147]] || Art. 17 || [[Lexeme:L147#S4|L147-S4]] || III - prestação de contas à Justiça Eleitoral;
+|-
+| [[Lexeme:L147|L147]] || Art. 17 || [[Lexeme:L147#S5|L147-S5]] || IV - funcionamento parlamentar de acordo com a lei.
+|-
+| [[Lexeme:L147|L147]] || Art. 17 || [[Lexeme:L147#S6|L147-S6]] || § 1º É assegurada aos partidos políticos autonomia para definir sua estrutura interna, organização e funcionamento, devendo seus estatutos estabelecer normas de fidelidade e disciplina partidárias.
+|-
+| [[Lexeme:L147|L147]] || Art. 17 || [[Lexeme:L147#S7|L147-S7]] || § 1º É assegurada aos partidos políticos autonomia para definir sua estrutura interna, organização e funcionamento e para adotar os critérios de escolha e o regime de suas coligações eleitorais, sem obrigatoriedade de vinculação entre as candidaturas em âmbito nacional, estadual, distrital ou municipal, devendo seus estatutos estabelecer normas de disciplina e fidelidade partidária.
+|-
+| [[Lexeme:L147|L147]] || Art. 17 || [[Lexeme:L147#S8|L147-S8]] || § 1º É assegurada aos partidos políticos autonomia para definir sua estrutura interna e estabelecer regras sobre escolha, formação e duração de seus órgãos permanentes e provisórios e sobre sua organização e funcionamento e para adotar os critérios de escolha e o regime de suas coligações nas eleições majoritárias, vedada a sua celebração nas eleições proporcionais, sem obrigatoriedade de vinculação entre as candidaturas em âmbito nacional, estadual, distrital ou municipal, devendo seus estatutos estabelecer normas de disciplina e fidelidade partidária.
+|-
+| [[Lexeme:L147|L147]] || Art. 17 || [[Lexeme:L147#S9|L147-S9]] || § 2º Os partidos políticos, após adquirirem personalidade jurídica, na forma da lei civil, registrarão seus estatutos no Tribunal Superior Eleitoral.
+|-
+| [[Lexeme:L147|L147]] || Art. 17 || [[Lexeme:L147#S10|L147-S10]] || § 3º Os partidos políticos têm direito a recursos do fundo partidário e acesso gratuito ao rádio e à televisão, na forma da lei.
+|-
+| [[Lexeme:L147|L147]] || Art. 17 || [[Lexeme:L147#S11|L147-S11]] || § 3º Somente terão direito a recursos do fundo partidário e acesso gratuito ao rádio e à televisão, na forma da lei, os partidos políticos que alternativamente:
+|-
+| [[Lexeme:L147|L147]] || Art. 17 || [[Lexeme:L147#S12|L147-S12]] || I - obtiverem, nas eleições para a Câmara dos Deputados, no mínimo, 3% (três por cento) dos votos válidos, distribuídos em pelo menos um terço das unidades da Federação, com um mínimo de 2% (dois por cento) dos votos válidos em cada uma delas; ou
+|-
+| [[Lexeme:L147|L147]] || Art. 17 || [[Lexeme:L147#S13|L147-S13]] || II - tiverem elegido pelo menos quinze Deputados Federais distribuídos em pelo menos um terço das unidades da Federação.
+|-
+| [[Lexeme:L147|L147]] || Art. 17 || [[Lexeme:L147#S14|L147-S14]] || § 4º É vedada a utilização pelos partidos políticos de organização paramilitar.
+|-
+| [[Lexeme:L147|L147]] || Art. 17 || [[Lexeme:L147#S15|L147-S15]] || § 5º Ao eleito por partido que não preencher os requisitos previstos no § 3º deste artigo é assegurado o mandato e facultada a filiação, sem perda do mandato, a outro partido que os tenha atingido, não sendo essa filiação considerada para fins de distribuição dos recursos do fundo partidário e de acesso gratuito ao tempo de rádio e de televisão.
+|-
+| [[Lexeme:L147|L147]] || Art. 17 || [[Lexeme:L147#S16|L147-S16]] || § 6º Os Deputados Federais, os Deputados Estaduais, os Deputados Distritais e os Vereadores que se desligarem do partido pelo qual tenham sido eleitos perderão o mandato, salvo nos casos de anuência do partido ou de outras hipóteses de justa causa estabelecidas em lei, não computada, em qualquer caso, a migração de partido para fins de distribuição de recursos do fundo partidário ou de outros fundos públicos e de acesso gratuito ao rádio e à televisão.
+|-
+| [[Lexeme:L147|L147]] || Art. 17 || [[Lexeme:L147#S17|L147-S17]] || § 7º Os partidos políticos devem aplicar no mínimo 5% (cinco por cento) dos recursos do fundo partidário na criação e na manutenção de programas de promoção e difusão da participação política das mulheres, de acordo com os interesses intrapartidários.
+|-
+| [[Lexeme:L147|L147]] || Art. 17 || [[Lexeme:L147#S18|L147-S18]] || § 8º O montante do Fundo Especial de Financiamento de Campanha e da parcela do fundo partidário destinada a campanhas eleitorais, bem como o tempo de propaganda gratuita no rádio e na televisão a ser distribuído pelos partidos às respectivas candidatas, deverão ser de no mínimo 30% (trinta por cento), proporcional ao número de candidatas, e a distribuição deverá ser realizada conforme critérios definidos pelos respectivos órgãos de direção e pelas normas estatutárias, considerados a autonomia e o interesse partidário.
+|}
